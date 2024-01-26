@@ -1,0 +1,31 @@
+<style>
+      *{box-sizing: border-box;}
+  	  header{
+  	  	background-color:burlywood;
+  	  }
+  	  body{
+  	  	background-color:mediumaquamarine;
+  	  	margin-left:60px;
+  	  	margin-right: 60px;
+  	  	font-size:20px;
+  	  }
+  	  nav{
+  	  	background-color:slategray;
+  	  	text-align:center;
+  	  	padding:3px;
+  	  }
+  	  a:link{color:deepskyblue;}
+  	  a:visited{color:skyblue;}
+  	  a:hover{color:lawngreen;}
+  	  a:active{color:pink;}
+  	  h1{
+  		font-size:10vw; 
+  		text-align:center; 
+  		margin-top:0; 
+  		margin-bottom:0;
+  	  }
+  	  h2{
+  	  	text-align:center; 
+  	  	font-size:45px;
+  	  }
+</style>
